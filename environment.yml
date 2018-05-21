@@ -2,4 +2,7 @@ dependencies:
   - numpy
   - matplotlib
   - pandas
-  - sklearn
+  - pip
+  - pip:
+    - sklearn
+    - pytorch
